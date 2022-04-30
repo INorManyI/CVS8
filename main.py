@@ -6,6 +6,10 @@ const = ""
 
 
 
+
+
+
+#####
 if(case == 1):
     case = input()
     result = list(map(int, case.split()))
