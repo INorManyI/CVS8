@@ -1,7 +1,5 @@
 case = int(input())
 const = ""
-case = case
-case = print(case)
 if(case == 1):
     case = input()
     result = list(map(int, case.split()))
